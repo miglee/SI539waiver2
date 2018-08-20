@@ -129,7 +129,7 @@ footer p{
 	background-image: url(profile.jpg);
 }
 
-@media only screen and (max-width: 480px, max-device-width: 480px;) {
+@media only screen and (max-width: 480px) {
 .content {
 	clear:both;
 	width:80vw;
