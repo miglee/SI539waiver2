@@ -15,6 +15,11 @@ header {
 	clear: :both;
 }
 
+header h1 {
+	font-size: 40px;
+
+}
+
 /*nav*/
 nav {
 	clear:both;
@@ -112,6 +117,5 @@ footer p{
 
 #about-img1 {
 	background-image: url(profile.jpg);
-
 }
 
